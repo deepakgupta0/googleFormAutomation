@@ -1,0 +1,9 @@
+/*
+    THIS FILE BASICALLY HAS CONFIGURATION PART RELATED TO EMAIL CURRENTLY WE HAVE ONLY SUBJECT
+*/
+
+module.exports = {
+    config: {
+        emailSubject: "TESTING FORM SUBJECT"
+    }
+}
